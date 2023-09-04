@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.main{
+    text-align: center;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.menu{
+
+    color: white;
+    background-color: #34495e;
+    text-align: center;
+    padding-bottom: 10px;
+    margin-top: 15px;
+    
+}
+
+.img{
+    text-align: center;
+    
+}
+.title{
+    padding-top: 50px;
+    height: 350px;
+    width: 500px;
+    color: white;
+    background-color: #0d6efd;
+}
+
+.orange{
+    text-align: center;
+    font-size: 8px;
+    padding: 10px 10px;
+    margin-top: 5px;
+    margin-left: 20px;
+    width: 250px;
+    height: 130px;
+    background-color: #e67e22;
+    border-radius: 0 25px 25px 0;
+    box-shadow: -4px 1px black;
+
+}
+
+.paste{
+    text-align: right;
+    font-size: 8px;
+    padding: 10px 10px;
+    margin-top: 15px;
+    margin-left: 225px;
+    width: 250px;
+    height: 130px;
+    border-radius: 25px 0 0 25px;
+    background-color: #1abc9c;
+    box-shadow: 4px 4px 3px rgb(165, 44, 184);
+}
+.flag{
+    height: 400px;
+    width: 500px;
+    color: aliceblue;
+    background-color: #4d687a;
+    margin-bottom: 15px;
+}
+
+
+.bangla{
+    height: 120px;
+    width: 180px;
+    margin-left: 30px;
+    background-color: green;
+    padding: 20px;
+    box-shadow: 2px 2px 4px white ;
+   
+}
+.lal{
+    margin: 0 auto;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+   background-color: red;
+   
+}
+
+.japan{
+    height: 121px;
+    width: 181px;
+    margin-top: -170px;
+    margin-bottom: 250px;
+    margin-left: 250px;
+    background-color: white;
+    padding: 20px;
+    border: 2px solid rgb(12, 7, 7);
+   
+}
+.jlal{
+    margin: 0 auto;
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+   background-color: red;
+   
+}
+
+.jermany{
+    height: 120px;
+    width: 180px;
+    margin-left: -240px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 7px white;
+  
+}
+.black{
+    height: 40px;
+    width: 180px;
+    background-color: black;
+}
+.red{
+    margin-top: 16px;
+    height: 40px;
+    width: 180px;
+    background-color: red;
+}
+.yellow{
+    margin-top: 16px;
+    height: 40px;
+    width: 180px;
+    background-color: yellow;
+
+}
+
+.england{
+height: 120px;
+width: 180px;
+margin-top: -129px;
+margin-bottom: 238px;
+margin-left: 221px;
+background-color: white;
+padding: 20px;
+box-shadow: 2px 2px 4px rgb(17, 12, 12);
+   
+}
+
+.jlal-h{
+    height: 120px;
+    width: 18px;
+    background-color: #fd1818;
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: -20px;
+}
+
+.jlal-w{
+    height: 20px;
+    width: 180px;
+    background-color: #fd1818;
+    margin-left: -116px;
+    margin-top: 31px;
+    display: inline-block;
+}
+
+.footer{
+    color: white;
+    margin-bottom: 10px;
+    margin-top: -25px;
+    background-color: #198754;
+    text-align: center;
+    padding: 10px ;
+}
+
+
+
+
